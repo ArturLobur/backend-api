@@ -1,0 +1,13 @@
+{
+	"eslint.timeBudget.onFixes": {
+		"warn": 3000,
+		"error": 6000
+	},
+	"eslint.options": {
+
+	},
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript"]
+}
